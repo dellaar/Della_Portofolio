@@ -1,2 +1,6 @@
 # Della_Portofolio
 Data science portofolio
+
+# Proyek 1: Mengidentifikasi Penyakit Jantung dengan Pendekatan Machine Learning dan Analisis Statistik
+Berdasarkan data yang berfokus pada pengukuran berbagai faktor terkait penyakit jantung, dua model pembelajaran mesin telah dikembangkan dan kinerja masing-masing model dibandingkan dalam mengklasifikasikan apakah seorang pasien menderita penyakit jantung atau tidak. Berbagai metrik kinerja, termasuk akurasi, sensitivitas, dan spesifisitas, digunakan untuk perbandingan ini. Pendekatan ini mencakup pemahaman mendalam terhadap fitur-fitur kunci dalam dataset, seperti usia pasien, jenis kelamin, tipe nyeri dada, tekanan darah istirahat, kadar kolesterol, gula darah puasa, hasil elektrokardiogram istirahat, denyut jantung maksimum, angina selama latihan, depresi ST, dan kemiringan segmen ST selama latihan. Sensitivitas diprioritaskan dibandingkan akurasi. Hal ini dikarenakan pasien yang mengidap penyakit jantung tidak boleh terdeteksi karena dapat menimbulkan konsekuensi yang serius. Spesifisitas juga dipertimbangkan untuk menghindari prosedur operasi yang tidak perlu dan meminimalkan potensi dampak invasif. Keberhasilan model ini penting untuk mencegah risiko penyakit jantung dengan cepat dan tepat waktu. 
+
